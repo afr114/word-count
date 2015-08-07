@@ -6,7 +6,7 @@
 
 ## Description
 
-- This application takes in a user input string and checks to see the frequency of a word in that string.  The word is inputted by the user.
+- This application takes in a user input string and checks to see the frequency of a word in that string.  The word is inputted by the user.  Please find a working version of the application at the following link: https://lit-plateau-4265.herokuapp.com/
 
 ## Technologies Used
 
